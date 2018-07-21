@@ -7,11 +7,19 @@ Things you may want to cover:
 
 * Ruby version
 
+Ruby 2.4.1
+
 * System dependencies
+
+Yarn 1.7.0
+
+ChromeDriver 2.40.565386
 
 * Configuration
 
 * Database creation
+
+Postgres DB
 
 * Database initialization
 
